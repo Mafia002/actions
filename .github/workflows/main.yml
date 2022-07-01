@@ -33,6 +33,6 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo what is in this directory?
-          ls -a,
+          ls -a
           echo what is the node version?
           node -v
