@@ -35,4 +35,4 @@ jobs:
           echo what is in this directory?
           ls -a,
           echo what is the node version?
-          node --v
+          node -v
